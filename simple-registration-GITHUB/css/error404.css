@@ -1,0 +1,55 @@
+body {
+    background-image: url(../images/2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0.5%;
+  }
+
+  p, h1 {
+    color: white;
+    text-align: center;
+  }
+
+  h1 {
+      font-size: 400%;
+      text-decoration: underline;
+      margin-top: 12%;
+  }
+
+  p {
+      font-size: 200%;
+  }
+
+  button {
+      margin-bottom: 8%;
+      margin-left: 29%;
+  }
+
+  .error_box {
+      margin-top: 15%;
+  }
+  
+  a {
+    color: rgb(3, 224, 255);
+  }
+  #admin {
+    border: 1px solid rgb(3, 224, 255);
+  }
+
+img {
+    float: left;
+    margin-top: 11%;
+    margin-bottom: 12%;
+    margin-left: 10%;
+}
+
+.clearfix {
+    overflow: auto;
+    background-color:  rgba(0, 0, 0, 0.44);
+  }
+
+  a:hover {
+    color: black;
+    text-decoration: none;
+  }

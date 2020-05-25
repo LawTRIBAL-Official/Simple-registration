@@ -1,0 +1,72 @@
+body {
+  background-image: url(../images/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0.5%;
+  color: rgb(255, 162, 3);
+}
+
+#admin {
+  color: white;
+  background-color: rgb(255, 162, 3);
+}
+
+#alreadyaccount {
+  color: white;
+}
+
+.header-text {
+  text-align: center;
+  margin-top: 8%;
+  margin-bottom: 0px;
+}
+
+.information-text {
+  text-align: center;
+}
+
+/* Container */
+.form-container{
+    width:40%;
+    margin:0 auto;
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
+
+.varcher-box {
+  border-radius: 25px;
+}
+
+#headline-header {
+  text-decoration: underline;
+  font-size: 72px;
+}
+
+/* Login */
+#div_login{
+    width: 470px;
+    height: 270px;
+    margin: 0 auto;
+}
+
+#div_login div{
+    clear: both;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#div_login .textbox{
+    width: 96%;
+    padding: 7px;
+}
+
+/**//*Remvoes highlight from object*/
+/**/button, input, div{
+/**/    outline-width: 0;
+/**/}
+/**/button, input, div:focus{
+/**/    outline: none;
+/**/}
+/**//*Remvoes highlight from object*/

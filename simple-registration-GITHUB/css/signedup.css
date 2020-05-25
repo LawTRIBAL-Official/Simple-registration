@@ -1,0 +1,28 @@
+body {
+  background-image: url(../images/3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0.5%;
+  color: white;
+}
+
+form {
+  background-color: rgba(0, 0, 0, 0.12);
+  text-align: center;
+}
+
+.signed_up_text {
+  text-align: center;
+  margin-top: 8%;
+  margin-bottom: 0px;
+}
+
+.information {
+  text-align: center;
+}
+#headline-header {
+  text-decoration: underline;
+  font-size: 72px;
+}
